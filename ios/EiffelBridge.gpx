@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="Xcode">
+    <wpt lat="48.858650033417625" lon="2.294021567835989">
+        <name>Eiffel Tower</name>
+        <time>2014-09-24T14:56:00Z</time>
+    </wpt>
+    <wpt lat="48.85976562353457" lon="2.292137508315747">
+        <name>Eiffel Tower Bridge Middle</name>
+        <time>2014-09-24T14:56:10Z</time>
+    </wpt>
+    <wpt lat="48.86037712163434" lon="2.291170357792054">
+        <name>Eiffel Tower Bridge End</name>
+        <time>2014-09-24T14:56:20Z</time>
+    </wpt>
+    <wpt lat="48.86236030734582" lon="2.293581953948234">
+        <name>To Caffe</name>
+        <time>2014-09-24T14:56:30Z</time>
+    </wpt>
+</gpx>
